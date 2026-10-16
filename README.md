@@ -2,6 +2,6 @@
 
 - Network Architectures (Lab1)
 - Fingerprinting Techniques (Lab2)
-– Wi-Fi Sec (Lab3)
-– IOT Security (Lab4)
+- Wi-Fi Sec (Lab3)
+- IOT Security (Lab4)
 
